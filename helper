@@ -1,0 +1,5 @@
+a movie predictor setimence predictor
+
+1.first trains a model from the data obtained from http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz
+2.trains and prdict the model using nat2.py
+3.uses the concept of NLP
